@@ -1,6 +1,6 @@
 # Matteo Gazzoni
 
-Full-stack product engineer. Thirteen years of building web products end to end: data model, backend, frontend, infrastructure, deployment. Since 2025 AI coding agents write the code; I own the specification, the architecture, the review and the call on what ships.
+Full-stack product engineer. Thirteen years of building web products end to end: data model, backend, frontend, infrastructure, deployment. Since 2026 AI coding agents write the code; I own the specification, the architecture, the review and the call on what ships.
 
 Most of my work is closed source and running:
 
