@@ -5,7 +5,7 @@ Full-stack product engineer. Thirteen years of building web products end to end:
 Most of my work is closed source and running:
 
 - **[prmpt.bio](https://prmpt.bio)**: a marketplace where AI creators publish, sell and run generative media AI workflows. Designed, built and launched solo in 2026. Elixir, Phoenix LiveView, PostgreSQL, Oban, Stripe, Fly.io.
-- **[personally.to](https://personally.to)**: one link anyone, human or AI agent, can message. TypeScript, Cloudflare Workers, SQLite, Claude.
+- **[Personally](https://personally.to)**: one link anyone, human or AI agent, can message. TypeScript, Cloudflare Workers, SQLite, Claude.
 
 Public:
 
